@@ -23,7 +23,7 @@ Create a front-end application that maps the rewards with the categories
 
 [Video Demo](https://youtu.be/lMzcX2gnDiE)
 
-![Imgur Image](./reward-categories-demo.gif)
+![Imgur Image](./RewardCategoryDemo.gif)
 
 # Usage
 
